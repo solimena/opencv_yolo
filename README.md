@@ -142,7 +142,7 @@ Example:
 
 This project is compatible with Google Colab for easy execution without local setup. Follow these steps:
 
-1. Open the file **`resize_and_center_image.ipynb`** on Colab.
+1. Open the file **`opencv_yolo.ipynb`** on Colab.
 2. Upload your images to a folder named `input_images` in the Colab environment.
 3. Run the cells in the notebook sequentially to:
    - Install dependencies.
