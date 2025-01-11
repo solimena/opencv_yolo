@@ -182,9 +182,21 @@ This project is compatible with Google Colab for easy execution without local se
 
 ## Example Output
 
+
+- Person Box on the initial image
+
+![Person Box on the initial image](images/output_images/working_images/depositphotos_509201804-stock-photo-business-man-in-shirt-with_step1_bounding_box.jpg)
+
+- Final result (initial low quality image (1920x2700)
+
+![Final result (initial low quality image)](images/output_images/depositphotos_509201804-stock-photo-business-man-in-shirt-with.jpg)
+
+
 ### Input Image
 
 - Original image with person near the edge.
+
+![initial image](images/input_images/depositphotos_509201804-stock-photo-business-man-in-shirt-with.jpg)
 
 ### Processed Output
 
@@ -199,6 +211,8 @@ This project is compatible with Google Colab for easy execution without local se
 - Integrate multi-class detection.
 - Add pose estimation or feature extraction capabilities.
 - Extend support to video processing.
+- AI Upscaling with high performance and texture quality
+- Generative AI for Background Expansion.
 
 ---
 
